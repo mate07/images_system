@@ -5,19 +5,16 @@
 </p>
 
 ## Integrantes
----
 - Alfaro Martínez, Dannis Francisco
 - Campos Cruz, Israel Alexander
 - Ramos Cubias, Jessica Beatriz  
 <br>
 
 ## Descripción del Cliente
----
 ABTECH es una tienda que se dedica a la venta de productos tecnológicos como también artículos escolares, contando con 8 años de existencia, logrando tener variedad de productos para satisfacer la demanda de sus clientes.  
 <br>
 
 ## Descripción del Proyecto
----
 ABTECH es una tienda que se dedica a la venta de productos tecnológicos como también artículos escolares, contando con 8 años de existencia, logrando tener variedad de productos para satisfacer la demanda de sus clientes.  
 <br>
 
@@ -35,8 +32,8 @@ Diseñar y desarrollar un sistema de facturación y manejo de inventario, para l
 <br>
 
 ## Descripción de la Solución Tecnológica
----
-CAPA DE PRESENTACIÓN
+
+**CAPA DE PRESENTACIÓN**
 
 1. HTML: Se utilizará en su versión 5 para la maquetación de los elementos en la web.
 
@@ -44,7 +41,7 @@ CAPA DE PRESENTACIÓN
 
 3. BOOTSTRAP: Se utilizará la versión 5, es un framework para el diseño y desarrollo web, nos permite construir aplicaciones web adaptables.
 
-CAPA DE LÓGICA DEL NEGOCIO
+**CAPA DE LÓGICA DEL NEGOCIO**
 
 1. PHP: Se utilizará la versión 7.4, que se mantiene como la versión más estable del lenguaje, siendo uno de los más utilizados para el desarrollo de aplicaciones web.
 
@@ -54,12 +51,11 @@ CAPA DE LÓGICA DEL NEGOCIO
 
 4. APACHE: Se utilizará la versión 2.4, Apache es un servidor web HTTP de código abierto. Está desarrollado y mantenido por una comunidad de usuarios en torno a la Apache Software Foundation.
 
-CAPA DE DATOS
+**CAPA DE DATOS**
 
 1. MySQL: Se utilizará la versión 8.0, MySQL es un sistema de gestión de bases de datos que cuenta con una doble licencia. Por una parte, es de código abierto, pero por otra, cuenta con una versión comercial gestionada por la compañía Oracle.
 
 ## Yii 2
----
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
