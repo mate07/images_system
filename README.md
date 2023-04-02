@@ -19,7 +19,7 @@ ABTECH es una tienda que se dedica a la venta de productos tecnológicos como ta
 <br>
 
 ## Objetivos del Proyecto
----
+
 ### Objetivo General:
 
 Diseñar y desarrollar un sistema de facturación y manejo de inventario, para la optimización de los procesos de la empresa ABTECH.  
@@ -41,6 +41,8 @@ Diseñar y desarrollar un sistema de facturación y manejo de inventario, para l
 
 3. BOOTSTRAP: Se utilizará la versión 5, es un framework para el diseño y desarrollo web, nos permite construir aplicaciones web adaptables.
 
+<br>
+
 **CAPA DE LÓGICA DEL NEGOCIO**
 
 1. PHP: Se utilizará la versión 7.4, que se mantiene como la versión más estable del lenguaje, siendo uno de los más utilizados para el desarrollo de aplicaciones web.
@@ -50,6 +52,8 @@ Diseñar y desarrollar un sistema de facturación y manejo de inventario, para l
 3. Yii2: Se utilizará en su versión 2, es un framework completo que provee muchas características probadas y listas para usar, como los constructores de consultas y clases para las bases de datos relacionales y NoSQL, la compatibilidad con la arquitectura REST para desarrollar API, la compatibilidad de caché en varios niveles y muchas más.
 
 4. APACHE: Se utilizará la versión 2.4, Apache es un servidor web HTTP de código abierto. Está desarrollado y mantenido por una comunidad de usuarios en torno a la Apache Software Foundation.
+
+<br>
 
 **CAPA DE DATOS**
 
